@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-AAAAAAAA
+欢迎来到我的主页！这个网站将用于展示我的信息，同时记录我的工作和生活，希望能帮助你更好的了解我^_^
 
 A data-driven personal website
 ======
