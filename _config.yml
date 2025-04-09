@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "广东—中国"
 site_theme               : "default"
-title                    : "个人主页"
+title                    : "Home主页"
 title_separator          : "-"
 name                     : &name "黄琦"
 description              : &description "自动化工程师"
@@ -23,7 +23,7 @@ repository               : "7huang/7huang.github.io"
 author:
   # Biographic information
   avatar           : "微信图片_20250409130418.png"
-  name             : "黄琦/HuangQi"
+  name             : "黄琦 HuangQi"
   pronouns         : # example: "she/her"  
   bio              : "想翻身的科研咸鱼"
   location         : "广东-中国"
