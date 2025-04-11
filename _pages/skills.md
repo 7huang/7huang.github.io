@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![加载出现问题](./images/Skills.PNG)
+![加载出现问题](./images/Skills.png)
