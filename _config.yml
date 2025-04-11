@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "广东—中国"
 site_theme               : "default"
-title                    : "Home主页"
+title                    : "MyPage"
 title_separator          : "-"
 name                     : &name "黄琦"
 description              : &description "自动化工程师"
