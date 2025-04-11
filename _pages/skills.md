@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![加载出现问题](https://github.com/7huang/7huang.github.io/blob/master/images/Skills.png)
+![加载出现问题](https://github.com/7huang/7huang.github.io/raw/master/images/Skills.png)
