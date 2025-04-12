@@ -14,8 +14,8 @@ main:
   - title: "Skills 技能树"
     url: /skills/  
     
-  - title: "Publications 出版物"
-    url: /publications/
+  #- title: "Publications 出版物"
+  #  url: /publications/
 
   #- title: "Talks"
   #  url: /talks/    
@@ -25,7 +25,10 @@ main:
     
   #- title: "Portfolio"
   #  url: /portfolio/
-        
+
+  - title: "Projects 项目"
+    url: /projects/
+
   - title: "News 新闻"
     url: /year-archive/
     
