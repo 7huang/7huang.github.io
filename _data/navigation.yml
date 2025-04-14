@@ -29,8 +29,8 @@ main:
   - title: "Projects 项目"
     url: /projects/
 
-  - title: "News 新闻"
-    url: /year-archive/
+  #- title: "News 新闻"
+   # url: /year-archive/
     
     
   # - title: "CV"
